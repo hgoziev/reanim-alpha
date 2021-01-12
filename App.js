@@ -9,7 +9,7 @@ function App() {
   return (
     <View style={styles.container}>
       {/* <MovingCircle /> */}
-      {/* <Tut /> */}
+
       {/* <TransitionsVanilla /> */}
       <Gestures />
     </View>
